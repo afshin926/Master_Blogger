@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MB.Peresentation.MVCcore.props" />
+</Project>

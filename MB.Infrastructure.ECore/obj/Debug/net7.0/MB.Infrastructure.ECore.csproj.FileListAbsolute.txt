@@ -1,0 +1,17 @@
+C:\Users\afshin\source\repos\Master_Blogger\MB.Infrastructure.ECore\bin\Debug\net7.0\MB.Infrastructure.ECore.deps.json
+C:\Users\afshin\source\repos\Master_Blogger\MB.Infrastructure.ECore\bin\Debug\net7.0\MB.Infrastructure.ECore.runtimeconfig.json
+C:\Users\afshin\source\repos\Master_Blogger\MB.Infrastructure.ECore\bin\Debug\net7.0\MB.Infrastructure.ECore.dll
+C:\Users\afshin\source\repos\Master_Blogger\MB.Infrastructure.ECore\bin\Debug\net7.0\MB.Infrastructure.ECore.pdb
+C:\Users\afshin\source\repos\Master_Blogger\MB.Infrastructure.ECore\bin\Debug\net7.0\MB.Domain.dll
+C:\Users\afshin\source\repos\Master_Blogger\MB.Infrastructure.ECore\bin\Debug\net7.0\MB.Domain.pdb
+C:\Users\afshin\source\repos\Master_Blogger\MB.Infrastructure.ECore\obj\Debug\net7.0\MB.Infrastructure.ECore.csproj.AssemblyReference.cache
+C:\Users\afshin\source\repos\Master_Blogger\MB.Infrastructure.ECore\obj\Debug\net7.0\MB.Infrastructure.ECore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afshin\source\repos\Master_Blogger\MB.Infrastructure.ECore\obj\Debug\net7.0\MB.Infrastructure.ECore.AssemblyInfoInputs.cache
+C:\Users\afshin\source\repos\Master_Blogger\MB.Infrastructure.ECore\obj\Debug\net7.0\MB.Infrastructure.ECore.AssemblyInfo.cs
+C:\Users\afshin\source\repos\Master_Blogger\MB.Infrastructure.ECore\obj\Debug\net7.0\MB.Infrastructure.ECore.csproj.CoreCompileInputs.cache
+C:\Users\afshin\source\repos\Master_Blogger\MB.Infrastructure.ECore\obj\Debug\net7.0\MB.Infrastructure.ECore.csproj.CopyComplete
+C:\Users\afshin\source\repos\Master_Blogger\MB.Infrastructure.ECore\obj\Debug\net7.0\MB.Infrastructure.ECore.dll
+C:\Users\afshin\source\repos\Master_Blogger\MB.Infrastructure.ECore\obj\Debug\net7.0\refint\MB.Infrastructure.ECore.dll
+C:\Users\afshin\source\repos\Master_Blogger\MB.Infrastructure.ECore\obj\Debug\net7.0\MB.Infrastructure.ECore.pdb
+C:\Users\afshin\source\repos\Master_Blogger\MB.Infrastructure.ECore\obj\Debug\net7.0\MB.Infrastructure.ECore.genruntimeconfig.cache
+C:\Users\afshin\source\repos\Master_Blogger\MB.Infrastructure.ECore\obj\Debug\net7.0\ref\MB.Infrastructure.ECore.dll

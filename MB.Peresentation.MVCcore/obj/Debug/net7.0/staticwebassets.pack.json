@@ -1,0 +1,397 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\css\\fontastic.css",
+      "PackagePath": "staticwebassets\\css\\fontastic.css"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\css\\style.blue.css",
+      "PackagePath": "staticwebassets\\css\\style.blue.css"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\css\\style.default.css",
+      "PackagePath": "staticwebassets\\css\\style.default.css"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\css\\style.green.css",
+      "PackagePath": "staticwebassets\\css\\style.green.css"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\css\\style.pink.css",
+      "PackagePath": "staticwebassets\\css\\style.pink.css"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\css\\style.red.css",
+      "PackagePath": "staticwebassets\\css\\style.red.css"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\css\\style.sea.css",
+      "PackagePath": "staticwebassets\\css\\style.sea.css"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\css\\style.violet.css",
+      "PackagePath": "staticwebassets\\css\\style.violet.css"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\fonts\\blog.eot",
+      "PackagePath": "staticwebassets\\fonts\\blog.eot"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\fonts\\blog.svg",
+      "PackagePath": "staticwebassets\\fonts\\blog.svg"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\fonts\\blog.ttf",
+      "PackagePath": "staticwebassets\\fonts\\blog.ttf"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\fonts\\blog.woff",
+      "PackagePath": "staticwebassets\\fonts\\blog.woff"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\icons-reference\\fonts\\blog.eot",
+      "PackagePath": "staticwebassets\\icons-reference\\fonts\\blog.eot"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\icons-reference\\fonts\\blog.svg",
+      "PackagePath": "staticwebassets\\icons-reference\\fonts\\blog.svg"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\icons-reference\\fonts\\blog.ttf",
+      "PackagePath": "staticwebassets\\icons-reference\\fonts\\blog.ttf"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\icons-reference\\fonts\\blog.woff",
+      "PackagePath": "staticwebassets\\icons-reference\\fonts\\blog.woff"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\icons-reference\\icons-reference.html",
+      "PackagePath": "staticwebassets\\icons-reference\\icons-reference.html"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\icons-reference\\styles.css",
+      "PackagePath": "staticwebassets\\icons-reference\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\img\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\img\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\img\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\img\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\img\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\img\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\img\\blog-post-1.jpeg",
+      "PackagePath": "staticwebassets\\img\\blog-post-1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\img\\blog-post-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\img\\blog-post-3.jpeg",
+      "PackagePath": "staticwebassets\\img\\blog-post-3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\img\\blog-post-4.jpeg",
+      "PackagePath": "staticwebassets\\img\\blog-post-4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\img\\divider-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\divider-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\img\\featured-pic-1.jpeg",
+      "PackagePath": "staticwebassets\\img\\featured-pic-1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\img\\featured-pic-2.jpeg",
+      "PackagePath": "staticwebassets\\img\\featured-pic-2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\img\\featured-pic-3.jpeg",
+      "PackagePath": "staticwebassets\\img\\featured-pic-3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\img\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\img\\gallery-2.jpeg",
+      "PackagePath": "staticwebassets\\img\\gallery-2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\img\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\img\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\img\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\img\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\img\\hero.jpg",
+      "PackagePath": "staticwebassets\\img\\hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\img\\logo-white.png",
+      "PackagePath": "staticwebassets\\img\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\img\\small-thumbnail-1.jpg",
+      "PackagePath": "staticwebassets\\img\\small-thumbnail-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\img\\small-thumbnail-2.jpg",
+      "PackagePath": "staticwebassets\\img\\small-thumbnail-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\img\\small-thumbnail-3.jpg",
+      "PackagePath": "staticwebassets\\img\\small-thumbnail-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\img\\template-mac.png",
+      "PackagePath": "staticwebassets\\img\\template-mac.png"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\img\\user.svg",
+      "PackagePath": "staticwebassets\\img\\user.svg"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\js\\front.js",
+      "PackagePath": "staticwebassets\\js\\front.js"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\@fancyapps\\fancybox\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\vendor\\@fancyapps\\fancybox\\jquery.fancybox.css"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\@fancyapps\\fancybox\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\vendor\\@fancyapps\\fancybox\\jquery.fancybox.js"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\@fancyapps\\fancybox\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\vendor\\@fancyapps\\fancybox\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\@fancyapps\\fancybox\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\vendor\\@fancyapps\\fancybox\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\font-awesome\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\jquery.cookie\\MIT-LICENSE.txt",
+      "PackagePath": "staticwebassets\\vendor\\jquery.cookie\\MIT-LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\jquery.cookie\\component.json",
+      "PackagePath": "staticwebassets\\vendor\\jquery.cookie\\component.json"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\jquery.cookie\\cookie.jquery.json",
+      "PackagePath": "staticwebassets\\vendor\\jquery.cookie\\cookie.jquery.json"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\jquery.cookie\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery.cookie\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\jquery\\core.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\core.js"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\popper.js\\esm\\popper-utils.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\esm\\popper-utils.js"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\popper.js\\esm\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\esm\\popper-utils.min.js"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\popper.js\\esm\\popper.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\esm\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\popper.js\\esm\\popper.min.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\esm\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\popper.js\\popper-utils.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\popper-utils.js"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\popper.js\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\popper-utils.min.js"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\popper.js\\popper.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\popper.js\\popper.min.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\popper.js\\umd\\popper-utils.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\umd\\popper-utils.js"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\popper.js\\umd\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\umd\\popper-utils.min.js"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\popper.js\\umd\\popper.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\umd\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\popper.js\\umd\\popper.min.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\umd\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\afshin\\source\\repos\\Master_Blogger\\MB.Peresentation.MVCcore\\wwwroot\\vendor\\popper.js\\umd\\poppper.js.flow",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\umd\\poppper.js.flow"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MB.Peresentation.MVCcore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MB.Peresentation.MVCcore.props",
+      "PackagePath": "build\\MB.Peresentation.MVCcore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MB.Peresentation.MVCcore.props",
+      "PackagePath": "buildMultiTargeting\\MB.Peresentation.MVCcore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MB.Peresentation.MVCcore.props",
+      "PackagePath": "buildTransitive\\MB.Peresentation.MVCcore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

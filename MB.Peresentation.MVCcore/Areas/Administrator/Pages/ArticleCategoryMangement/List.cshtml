@@ -1,0 +1,68 @@
+﻿@page
+@model MB.Peresentation.MVCcore.Areas.Administrator.Pages.ArticleCategoryMangement.ListModel
+@{
+    ViewData["Title"] = "List";
+}
+<div class="card">
+    <div class="card-header">
+        <h3>Article category List</h3>
+        <div>
+            <a class="btn btn-success" asp-page="./Create"asp-area="Administrator">Add</a>
+        </div>
+    </div>
+</div>
+<div class="card-body">
+    <table class="table">
+        <thead>
+        <tr>
+            <td>Row</td>
+            <td>Category Name</td>
+            <td>Status</td>
+            <td>Creation Date</td>
+            <td>Rename</td>
+            <td>Change Status</td>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var articleCategory in Model.ArticleCategories)
+        {
+
+        <tr>
+            <td>@articleCategory.Id</td>
+            <td>@articleCategory.Title</td>
+            <td>
+                @if (articleCategory.IsDeleted)
+                {
+                    <a class="fa fa-close fa-2x text-danger"></a>
+                }
+                else
+                {
+                     <a class="fa fa-check fa-2x text-success"></a>
+                }
+            </td>
+            <td>@articleCategory.CreationDate</td>
+            <td>
+                    <a class="btn btn-warning" asp-page="./Edit" asp-route-id="@articleCategory.Id">Rename</a>
+            </td>
+            <td>
+                @if (articleCategory.IsDeleted)
+                {
+                    <form method="post" asp-page-handler="Activate">
+                        <button class="btn btn-success">Activate</button>
+                        <input type="hidden" name="Id" value="@articleCategory.Id"/>
+                    </form>
+                }
+                else
+                {
+                    <form method="post" asp-page-handler="Remove">
+                        <button class="btn btn-danger">Remove</button>
+                        <input type="hidden" name="Id" value="@articleCategory.Id"/>
+                    </form>
+                }
+            </td>
+        </tr>
+        }  
+        </tbody>
+
+    </table>
+</div>

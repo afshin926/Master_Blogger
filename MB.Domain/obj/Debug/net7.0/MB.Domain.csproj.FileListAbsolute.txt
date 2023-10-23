@@ -1,0 +1,11 @@
+C:\Users\afshin\source\repos\Master_Blogger\MB.Domain\bin\Debug\net7.0\MB.Domain.deps.json
+C:\Users\afshin\source\repos\Master_Blogger\MB.Domain\bin\Debug\net7.0\MB.Domain.dll
+C:\Users\afshin\source\repos\Master_Blogger\MB.Domain\bin\Debug\net7.0\MB.Domain.pdb
+C:\Users\afshin\source\repos\Master_Blogger\MB.Domain\obj\Debug\net7.0\MB.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afshin\source\repos\Master_Blogger\MB.Domain\obj\Debug\net7.0\MB.Domain.AssemblyInfoInputs.cache
+C:\Users\afshin\source\repos\Master_Blogger\MB.Domain\obj\Debug\net7.0\MB.Domain.AssemblyInfo.cs
+C:\Users\afshin\source\repos\Master_Blogger\MB.Domain\obj\Debug\net7.0\MB.Domain.csproj.CoreCompileInputs.cache
+C:\Users\afshin\source\repos\Master_Blogger\MB.Domain\obj\Debug\net7.0\MB.Domain.dll
+C:\Users\afshin\source\repos\Master_Blogger\MB.Domain\obj\Debug\net7.0\refint\MB.Domain.dll
+C:\Users\afshin\source\repos\Master_Blogger\MB.Domain\obj\Debug\net7.0\MB.Domain.pdb
+C:\Users\afshin\source\repos\Master_Blogger\MB.Domain\obj\Debug\net7.0\ref\MB.Domain.dll
